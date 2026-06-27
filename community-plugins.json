@@ -21017,7 +21017,7 @@
     "id": "wechat-converter",
     "name": "Wechat Converter",
     "author": "davidlam-oss",
-    "description": "Convert Markdown into polished WeChat articles with live preview, copy, and draft sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "一键将 Markdown 转换为微信公众号、飞书等平台精美 HTML 排版的转换器，支持同步/发布至小红书、知乎、今日头条、抖音图文、B站（哔哩哔哩）、微博、CSDN 等多平台. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "davidlam-oss/obsidian-wechat-converter"
   },
   {
