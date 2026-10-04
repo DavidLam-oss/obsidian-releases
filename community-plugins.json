@@ -20827,7 +20827,7 @@
   {
     "id": "wechat-converter",
     "name": "Wechat Converter",
-    "author": "davidlam-oss",
+    "author": "DavidLam | 公众号：林小卫很行",
     "description": "将 Markdown 转换为微信公众号排版，并支持一键发送到微信(weixin/wx)公众号（支持自定义 CSS和公众号贴图）、飞书、小红书（rednote)、知乎、微博、CSDN等20+平台。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "davidlam-oss/obsidian-wechat-converter"
   },
